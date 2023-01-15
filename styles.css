@@ -1,0 +1,10 @@
+textarea{
+    width:50%;
+    height:2rem;
+    padding:1rem
+}
+
+button{
+    width: 4rem;    
+    font-size: 2rem;
+}
